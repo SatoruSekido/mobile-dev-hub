@@ -1,0 +1,282 @@
+[
+  {
+    "title": "Apple Foundation Models [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/apple-ai-models/48744203-apple-foundation-models",
+    "pubDate": "2025-10-02T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>This module will be an introduction to the new Foundation Models framework in Swift. The module begins with an introduction to the Foundation Models Framework by\ncreating a simple SwiftUI chat-type"
+  },
+  {
+    "title": "Upcoming Currency Change in Bulgaria",
+    "link": "https://developer.apple.com/news/?id=rbfp3bpb",
+    "pubDate": "Thu, 25 Sep 2025 09:00:46 PDT",
+    "source": "Apple Developer",
+    "contentSnippet": "Beginning January 1, 2026, Bulgaria will adopt the euro (EUR) as its official currency, replacing the Bulgarian lev (BGN). As a result, the currency for App Store purchases and subscriptions in Bulgar"
+  },
+  {
+    "title": "Get ready with the latest beta releases",
+    "link": "https://developer.apple.com/news/?id=4uj8znqq",
+    "pubDate": "Mon, 22 Sep 2025 07:00:14 PDT",
+    "source": "Apple Developer",
+    "contentSnippet": "The beta versions of iOS 26.1, iPadOS 26.1, macOS 26.1, tvOS 26.1, visionOS 26.1, and watchOS 26.1 are now available. Get your apps ready by confirming they work as expected on these releases. And to "
+  },
+  {
+    "title": "Performance Optimization [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/networking-concurrency-swiftui/48743668-performance-optimization",
+    "pubDate": "2025-09-21T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>Take your app to the next level! This module will equip you with advanced techniques to optimize your network calls,\nthreading, and memory management, resulting in a faster and efficient app.\n<stro"
+  },
+  {
+    "title": "Concurrency Demystified [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/networking-concurrency-swiftui/48743728-concurrency-demystified",
+    "pubDate": "2025-09-20T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>Second version: updated with a lesson on Actors.\nUnleash the power of concurrency!\nThis module will equip you with the tools and techniques to handle multiple\ntasks simultaneously, keeping your app"
+  },
+  {
+    "title": "Introduction to SwiftUI [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/getting-started-swiftui/49205364-introduction-to-swiftui",
+    "pubDate": "2025-09-20T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>Updated with a lesson on animations in SwiftUI! This module introduces the foundational building blocks of SwiftUI, a declarative programming paradigm.\nSwiftUI works across all of Apple’s platforms"
+  },
+  {
+    "title": "Introduction to Version Control [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/foundational-tools-ios/48743434-introduction-to-version-control",
+    "pubDate": "2025-09-14T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>In this module, you’ll learn what a version control system is and why using one is important for any software development project. You’ll also learn the basics of using Git, the most popular system"
+  },
+  {
+    "title": "App Store submissions now open for the latest OS releases",
+    "link": "https://developer.apple.com/news/?id=6lxhtioi",
+    "pubDate": "Tue, 09 Sep 2025 05:00:09 PDT",
+    "source": "Apple Developer",
+    "contentSnippet": "iOS 26, iPadOS 26, macOS Tahoe 26, tvOS 26, visionOS 26, and watchOS 26 will soon be available to customers worldwide — which means you can now submit apps and games that take advantage of Apple’s bro"
+  },
+  {
+    "title": "Advanced Error Handling & Result Types [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/advanced-swift-techniques/46682496-advanced-error-handling-result-types",
+    "pubDate": "2025-09-05T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>Production code is all about handling errors: programming errors, user input errors, asynchronous errors. In this course, you’ll review basic error handling with optionals and throw-catch, then lea"
+  },
+  {
+    "title": "Hello Developer: September 2025",
+    "link": "https://developer.apple.com/news/?id=6zd7a3al",
+    "pubDate": "Tue, 02 Sep 2025 05:00:16 PDT",
+    "source": "Apple Developer",
+    "contentSnippet": "Be ready for the new design. Whether you’re a longtime pro or a hobbyist, get inspired and make your apps and games look their best by exploring videos, downloads, and docs.\nPlus, sign up for one-on-o"
+  },
+  {
+    "title": "Awe dropping.",
+    "link": "https://developer.apple.com/news/?id=p9nukitr",
+    "pubDate": "Tue, 26 Aug 2025 07:00:09 PDT",
+    "source": "Apple Developer",
+    "contentSnippet": "Join us for a special Apple Event on September 9 at 10 a.m. PT.\nWatch on apple.com, Apple TV, or YouTube Live."
+  },
+  {
+    "title": "Tax and Price Updates for Apps, In-App Purchases, and Subscriptions",
+    "link": "https://developer.apple.com/news/?id=yo2104n5",
+    "pubDate": "Thu, 21 Aug 2025 06:00:46 PDT",
+    "source": "Apple Developer",
+    "contentSnippet": "The App Store is designed to make it easy to sell your digital goods and services globally, with support for 44 currencies across 175 storefronts.\nFrom time to time, we need to adjust prices or your p"
+  },
+  {
+    "title": "What’s new in Flutter 3.35",
+    "link": "https://blog.flutter.dev/whats-new-in-flutter-3-35-c58ef72e3766?source=rss----4da7dfd21a33---4",
+    "pubDate": "Thu, 14 Aug 2025 18:23:26 GMT",
+    "source": "Flutter Medium",
+    "contentSnippet": ""
+  },
+  {
+    "title": "Leveraging Claude Code [FREE]",
+    "link": "https://www.kodeco.com/48516177-leveraging-claude-code",
+    "pubDate": "2025-08-14T18:00:04.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "Tired of copying code between AI chat windows and your editor? Claude Code brings AI-powered development directly to your command line and your IDE. This tutorial covers installation, project creation"
+  },
+  {
+    "title": "React Native 0.81 - Android 16 support, faster iOS builds, and more",
+    "link": "https://reactnative.dev/blog/2025/08/12/react-native-0.81",
+    "pubDate": "Tue, 12 Aug 2025 00:00:00 GMT",
+    "source": "React Native",
+    "contentSnippet": "Today we are excited to release React Native 0.81!"
+  },
+  {
+    "title": "Hello Developer: August 2025",
+    "link": "https://developer.apple.com/news/?id=4qkavrhc",
+    "pubDate": "Tue, 05 Aug 2025 05:00:16 PDT",
+    "source": "Apple Developer",
+    "contentSnippet": "Sign up for new Apple developer workshops all over the world. Plus, download Apple UI design kits for Figma and Sketch, meet the Italy-based team behind Sunlitt, and more.\nRead more"
+  },
+  {
+    "title": "Advanced Swift Concurrency [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/advanced-swift-techniques/46682421-advanced-swift-concurrency",
+    "pubDate": "2025-07-30T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>Harness the power of Swift Concurrency through usage of async/await and suspending functions.\nLearn how Swift Actors can be used in concurrent environments. Explore the benefits of Swift\n6 Language"
+  },
+  {
+    "title": "Updated age ratings in App Store Connect",
+    "link": "https://developer.apple.com/news/?id=ks775ehf",
+    "pubDate": "Thu, 24 Jul 2025 06:00:43 PDT",
+    "source": "Apple Developer",
+    "contentSnippet": "The App Store is designed to be a safe and trusted place for all ages, including children. The age rating system for apps and games has been updated in order to provide people with more granular age r"
+  },
+  {
+    "title": "Unleash new AI capabilities for Flutter in Firebase Studio",
+    "link": "https://blog.flutter.dev/unleash-new-ai-capabilities-for-flutter-in-firebase-studio-9a8c94564635?source=rss----4da7dfd21a33---4",
+    "pubDate": "Wed, 23 Jul 2025 05:02:36 GMT",
+    "source": "Flutter Medium",
+    "contentSnippet": ""
+  },
+  {
+    "title": "Supercharge Your Dart & Flutter Development Experience with the Dart MCP Server",
+    "link": "https://blog.flutter.dev/supercharge-your-dart-flutter-development-experience-with-the-dart-mcp-server-2edcc8107b49?source=rss----4da7dfd21a33---4",
+    "pubDate": "Wed, 23 Jul 2025 05:02:33 GMT",
+    "source": "Flutter Medium",
+    "contentSnippet": ""
+  },
+  {
+    "title": "New 64-bit requirement for watchOS apps",
+    "link": "https://developer.apple.com/news/?id=zt8rydnt",
+    "pubDate": "Tue, 22 Jul 2025 06:00:43 PDT",
+    "source": "Apple Developer",
+    "contentSnippet": "Beginning April 2026, watchOS apps uploaded to App Store Connect must also include 64-bit support and be built with the watchOS 26 SDK. To enable 64-bit support in your project, we recommend using the"
+  },
+  {
+    "title": "iOS and iPadOS 26 design kits are here",
+    "link": "https://developer.apple.com/news/?id=pnfbj8je",
+    "pubDate": "Fri, 18 Jul 2025 10:00:15 PDT",
+    "source": "Apple Developer",
+    "contentSnippet": "Apple Ul design kits for Figma and Sketch are now available for iOS and iPadOS 26.\nApple Design Resources"
+  },
+  {
+    "title": "AI-Assisted Development for iOS [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/ai-assisted-ios-dev/48114023-ai-assisted-development-for-ios",
+    "pubDate": "2025-07-18T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>AI is coming for your job. And your life. Or maybe it isn’t. Who, other\nthan Sarah Connor, knows? Whilst we wait for the AI apocalypse, join us\non this course to discover how you can benefit from a"
+  },
+  {
+    "title": "Generics, Protocols & Functional Programming in Swift [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/advanced-swift-techniques/46682187-generics-protocols-functional-programming-in-swift",
+    "pubDate": "2025-07-02T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>Learn how generics, protocols and functional programming allow you to use object oriented principles while keeping your code from growing too large through the use of polymorphism, reuse and collec"
+  },
+  {
+    "title": "React Native 0.80 - React 19.1, JS API Changes, Freezing Legacy Arch and much more",
+    "link": "https://reactnative.dev/blog/2025/06/12/react-native-0.80",
+    "pubDate": "Thu, 12 Jun 2025 16:01:00 GMT",
+    "source": "React Native",
+    "contentSnippet": "Today we are excited to release React Native 0.80!"
+  },
+  {
+    "title": "Moving Towards a Stable JavaScript API (New Changes in 0.80)",
+    "link": "https://reactnative.dev/blog/2025/06/12/moving-towards-a-stable-javascript-api",
+    "pubDate": "Thu, 12 Jun 2025 16:00:00 GMT",
+    "source": "React Native",
+    "contentSnippet": "In React Native 0.80, we're introducing two significant changes to React Native's JavaScript API — the deprecation of deep imports, and our new Strict TypeScript API. These are part of an ongoing effo"
+  },
+  {
+    "title": "Dart & Flutter momentum at Google I/O 2025",
+    "link": "https://blog.flutter.dev/dart-flutter-momentum-at-google-i-o-2025-4863aa4f84a4?source=rss----4da7dfd21a33---4",
+    "pubDate": "Wed, 21 May 2025 18:00:57 GMT",
+    "source": "Flutter Medium",
+    "contentSnippet": ""
+  },
+  {
+    "title": "Flutter’s path towards seamless interop",
+    "link": "https://blog.flutter.dev/flutters-path-towards-seamless-interop-4bf7d4579d9a?source=rss----4da7dfd21a33---4",
+    "pubDate": "Tue, 20 May 2025 18:03:41 GMT",
+    "source": "Flutter Medium",
+    "contentSnippet": ""
+  },
+  {
+    "title": "Gemini in Android Studio now speaks fluent Flutter!",
+    "link": "https://blog.flutter.dev/gemini-in-android-studio-now-speaks-fluent-flutter-915dfec98274?source=rss----4da7dfd21a33---4",
+    "pubDate": "Tue, 20 May 2025 18:03:09 GMT",
+    "source": "Flutter Medium",
+    "contentSnippet": ""
+  },
+  {
+    "title": "What’s new in Flutter 3.32",
+    "link": "https://blog.flutter.dev/whats-new-in-flutter-3-32-40c1086bab6e?source=rss----4da7dfd21a33---4",
+    "pubDate": "Tue, 20 May 2025 18:02:25 GMT",
+    "source": "Flutter Medium",
+    "contentSnippet": ""
+  },
+  {
+    "title": "Learn how to build agentic apps with Flutter, Angular, Firebase, and Vertex AI",
+    "link": "https://blog.flutter.dev/learn-how-to-build-agentic-apps-with-flutter-angular-firebase-and-vertex-ai-ad46b38b1adb?source=rss----4da7dfd21a33---4",
+    "pubDate": "Thu, 24 Apr 2025 16:23:03 GMT",
+    "source": "Flutter Medium",
+    "contentSnippet": ""
+  },
+  {
+    "title": "React Native 0.79 - Faster tooling and much more",
+    "link": "https://reactnative.dev/blog/2025/04/08/react-native-0.79",
+    "pubDate": "Tue, 08 Apr 2025 00:00:00 GMT",
+    "source": "React Native",
+    "contentSnippet": "Today we are excited to release React Native 0.79!"
+  },
+  {
+    "title": "Flutter 2025 roadmap update",
+    "link": "https://blog.flutter.dev/flutter-2025-roadmap-f127882b117f?source=rss----4da7dfd21a33---4",
+    "pubDate": "Wed, 02 Apr 2025 20:27:24 GMT",
+    "source": "Flutter Medium",
+    "contentSnippet": ""
+  },
+  {
+    "title": "React Native 0.78 - React 19 and more",
+    "link": "https://reactnative.dev/blog/2025/02/19/react-native-0.78",
+    "pubDate": "Wed, 19 Feb 2025 00:00:00 GMT",
+    "source": "React Native",
+    "contentSnippet": "Today we are excited to release React Native 0.78!"
+  },
+  {
+    "title": "What’s new in Flutter 3.29",
+    "link": "https://blog.flutter.dev/whats-new-in-flutter-3-29-f90c380c2317?source=rss----4da7dfd21a33---4",
+    "pubDate": "Wed, 12 Feb 2025 19:09:57 GMT",
+    "source": "Flutter Medium",
+    "contentSnippet": ""
+  },
+  {
+    "title": "React Native Core Contributor Summit 2024 Recap",
+    "link": "https://reactnative.dev/blog/2025/02/03/react-native-core-contributor-summit-2024",
+    "pubDate": "Mon, 03 Feb 2025 00:00:00 GMT",
+    "source": "React Native",
+    "contentSnippet": "Every year, the core contributors in the React Native Community get together with the React Native team to collaboratively shape the direction of this project."
+  },
+  {
+    "title": "React Native 0.77 - New Styling Features, Android’s 16KB page support, Swift Template",
+    "link": "https://reactnative.dev/blog/2025/01/21/version-0.77",
+    "pubDate": "Tue, 21 Jan 2025 00:00:00 GMT",
+    "source": "React Native",
+    "contentSnippet": "Today we are excited to release React Native 0.77!"
+  },
+  {
+    "title": "New Architecture is here",
+    "link": "https://reactnative.dev/blog/2024/10/23/the-new-architecture-is-here",
+    "pubDate": "Wed, 23 Oct 2024 16:01:00 GMT",
+    "source": "React Native",
+    "contentSnippet": "React Native 0.76 with the New Architecture by default is now available on npm!"
+  },
+  {
+    "title": "React Native 0.76 - New Architecture by default, React Native DevTools, and more",
+    "link": "https://reactnative.dev/blog/2024/10/23/release-0.76-new-architecture",
+    "pubDate": "Wed, 23 Oct 2024 16:00:00 GMT",
+    "source": "React Native",
+    "contentSnippet": "Today we are excited to release React Native 0.76!"
+  },
+  {
+    "title": "React Native 0.75 - Support for Percentage Values in Layout, New Architecture Stabilization, Template & init Updates, and more",
+    "link": "https://reactnative.dev/blog/2024/08/12/release-0.75",
+    "pubDate": "Wed, 14 Aug 2024 00:00:00 GMT",
+    "source": "React Native",
+    "contentSnippet": "Today we are excited to release React Native 0.75!"
+  }
+]
