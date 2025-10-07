@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hello Developer: October 2025",
+    "link": "https://developer.apple.com/news/?id=glqa1owr",
+    "pubDate": "Tue, 07 Oct 2025 05:00:16 PDT",
+    "source": "Apple Developer",
+    "contentSnippet": "This month: Watch a new code-along video to discover how to use the Foundation Models framework to access the on-device LLM that powers Apple Intelligence.\nPlus, dive into new games offerings, explore"
+  },
+  {
     "title": "Translation Framework [SUBSCRIBER]",
     "link": "https://www.kodeco.com/ios/paths/apple-ai-models/49307459-translation-framework",
     "pubDate": "2025-10-05T00:00:00.000Z",
@@ -152,13 +159,6 @@
     "pubDate": "Tue, 22 Jul 2025 06:00:43 PDT",
     "source": "Apple Developer",
     "contentSnippet": "Beginning April 2026, watchOS apps uploaded to App Store Connect must also include 64-bit support and be built with the watchOS 26 SDK. To enable 64-bit support in your project, we recommend using the"
-  },
-  {
-    "title": "iOS and iPadOS 26 design kits are here",
-    "link": "https://developer.apple.com/news/?id=pnfbj8je",
-    "pubDate": "Fri, 18 Jul 2025 10:00:15 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "Apple Ul design kits for Figma and Sketch are now available for iOS and iPadOS 26.\nApple Design Resources"
   },
   {
     "title": "AI-Assisted Development for iOS [SUBSCRIBER]",
