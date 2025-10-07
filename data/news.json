@@ -1,5 +1,12 @@
 [
   {
+    "title": "Translation Framework [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/apple-ai-models/49307459-translation-framework",
+    "pubDate": "2025-10-05T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>The Translation API offers realtime translations in your app. You can use the\nbuilt-in UI or manage the translation session to customize the app experience\nbased on your user’s needs. Updated to iO"
+  },
+  {
     "title": "Apple Foundation Models [SUBSCRIBER]",
     "link": "https://www.kodeco.com/ios/paths/apple-ai-models/48744203-apple-foundation-models",
     "pubDate": "2025-10-02T00:00:00.000Z",
@@ -28,18 +35,18 @@
     "contentSnippet": "<p>Take your app to the next level! This module will equip you with advanced techniques to optimize your network calls,\nthreading, and memory management, resulting in a faster and efficient app.\n<stro"
   },
   {
-    "title": "Concurrency Demystified [SUBSCRIBER]",
-    "link": "https://www.kodeco.com/ios/paths/networking-concurrency-swiftui/48743728-concurrency-demystified",
-    "pubDate": "2025-09-20T00:00:00.000Z",
-    "source": "Ray Wenderlich",
-    "contentSnippet": "<p>Second version: updated with a lesson on Actors.\nUnleash the power of concurrency!\nThis module will equip you with the tools and techniques to handle multiple\ntasks simultaneously, keeping your app"
-  },
-  {
     "title": "Introduction to SwiftUI [SUBSCRIBER]",
     "link": "https://www.kodeco.com/ios/paths/getting-started-swiftui/49205364-introduction-to-swiftui",
     "pubDate": "2025-09-20T00:00:00.000Z",
     "source": "Ray Wenderlich",
     "contentSnippet": "<p>Updated with a lesson on animations in SwiftUI! This module introduces the foundational building blocks of SwiftUI, a declarative programming paradigm.\nSwiftUI works across all of Apple’s platforms"
+  },
+  {
+    "title": "Concurrency Demystified [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/networking-concurrency-swiftui/48743728-concurrency-demystified",
+    "pubDate": "2025-09-20T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>Second version: updated with a lesson on Actors.\nUnleash the power of concurrency!\nThis module will equip you with the tools and techniques to handle multiple\ntasks simultaneously, keeping your app"
   },
   {
     "title": "Introduction to Version Control [SUBSCRIBER]",
@@ -159,13 +166,6 @@
     "pubDate": "2025-07-18T00:00:00.000Z",
     "source": "Ray Wenderlich",
     "contentSnippet": "<p>AI is coming for your job. And your life. Or maybe it isn’t. Who, other\nthan Sarah Connor, knows? Whilst we wait for the AI apocalypse, join us\non this course to discover how you can benefit from a"
-  },
-  {
-    "title": "Generics, Protocols & Functional Programming in Swift [SUBSCRIBER]",
-    "link": "https://www.kodeco.com/ios/paths/advanced-swift-techniques/46682187-generics-protocols-functional-programming-in-swift",
-    "pubDate": "2025-07-02T00:00:00.000Z",
-    "source": "Ray Wenderlich",
-    "contentSnippet": "<p>Learn how generics, protocols and functional programming allow you to use object oriented principles while keeping your code from growing too large through the use of polymorphism, reuse and collec"
   },
   {
     "title": "React Native 0.80 - React 19.1, JS API Changes, Freezing Legacy Arch and much more",
