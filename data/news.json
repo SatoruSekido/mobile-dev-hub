@@ -1,5 +1,33 @@
 [
   {
+    "title": "Meet the Flutter Extension for Gemini CLI",
+    "link": "https://blog.flutter.dev/meet-the-flutter-extension-for-gemini-cli-f8be3643eaad?source=rss----4da7dfd21a33---4",
+    "pubDate": "Wed, 08 Oct 2025 14:22:10 GMT",
+    "source": "Flutter Medium",
+    "contentSnippet": ""
+  },
+  {
+    "title": "Updated Apple Developer Program License Agreement now available",
+    "link": "https://developer.apple.com/news/?id=fnkpd51y",
+    "pubDate": "Wed, 08 Oct 2025 06:00:12 PDT",
+    "source": "Apple Developer",
+    "contentSnippet": "The Apple Developer Program License Agreement has been revised to support updated policies and to provide clarification. Please review the changes below and sign in to your account to accept the updat"
+  },
+  {
+    "title": "New requirements for apps available in Texas",
+    "link": "https://developer.apple.com/news/?id=btkirlj8",
+    "pubDate": "Wed, 08 Oct 2025 05:00:09 PDT",
+    "source": "Apple Developer",
+    "contentSnippet": "Beginning January 1, 2026, a new state law in Texas — SB2420 — introduces age assurance requirements for app marketplaces and developers. While we share the goal of strengthening kids’ online safety, "
+  },
+  {
+    "title": "React Native 0.82 - A New Era",
+    "link": "https://reactnative.dev/blog/2025/10/08/react-native-0.82",
+    "pubDate": "Wed, 08 Oct 2025 00:00:00 GMT",
+    "source": "React Native",
+    "contentSnippet": "Today we're excited to release React Native 0.82: the first React Native that runs entirely on the New Architecture."
+  },
+  {
     "title": "Hello Developer: October 2025",
     "link": "https://developer.apple.com/news/?id=glqa1owr",
     "pubDate": "Tue, 07 Oct 2025 05:00:16 PDT",
@@ -140,13 +168,6 @@
     "contentSnippet": "Sign up for new Apple developer workshops all over the world. Plus, download Apple UI design kits for Figma and Sketch, meet the Italy-based team behind Sunlitt, and more.\nRead more"
   },
   {
-    "title": "Updated age ratings in App Store Connect",
-    "link": "https://developer.apple.com/news/?id=ks775ehf",
-    "pubDate": "Thu, 24 Jul 2025 06:00:43 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "The App Store is designed to be a safe and trusted place for all ages, including children. The age rating system for apps and games has been updated in order to provide people with more granular age r"
-  },
-  {
     "title": "Unleash new AI capabilities for Flutter in Firebase Studio",
     "link": "https://blog.flutter.dev/unleash-new-ai-capabilities-for-flutter-in-firebase-studio-9a8c94564635?source=rss----4da7dfd21a33---4",
     "pubDate": "Wed, 23 Jul 2025 05:02:36 GMT",
@@ -159,13 +180,6 @@
     "pubDate": "Wed, 23 Jul 2025 05:02:33 GMT",
     "source": "Flutter Medium",
     "contentSnippet": ""
-  },
-  {
-    "title": "New 64-bit requirement for watchOS apps",
-    "link": "https://developer.apple.com/news/?id=zt8rydnt",
-    "pubDate": "Tue, 22 Jul 2025 06:00:43 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "Beginning April 2026, watchOS apps uploaded to App Store Connect must also include 64-bit support and be built with the watchOS 26 SDK. To enable 64-bit support in your project, we recommend using the"
   },
   {
     "title": "React Native 0.80 - React 19.1, JS API Changes, Freezing Legacy Arch and much more",
@@ -238,13 +252,6 @@
     "contentSnippet": "Today we are excited to release React Native 0.78!"
   },
   {
-    "title": "What’s new in Flutter 3.29",
-    "link": "https://blog.flutter.dev/whats-new-in-flutter-3-29-f90c380c2317?source=rss----4da7dfd21a33---4",
-    "pubDate": "Wed, 12 Feb 2025 19:09:57 GMT",
-    "source": "Flutter Medium",
-    "contentSnippet": ""
-  },
-  {
     "title": "React Native Core Contributor Summit 2024 Recap",
     "link": "https://reactnative.dev/blog/2025/02/03/react-native-core-contributor-summit-2024",
     "pubDate": "Mon, 03 Feb 2025 00:00:00 GMT",
@@ -271,12 +278,5 @@
     "pubDate": "Wed, 23 Oct 2024 16:00:00 GMT",
     "source": "React Native",
     "contentSnippet": "Today we are excited to release React Native 0.76!"
-  },
-  {
-    "title": "React Native 0.75 - Support for Percentage Values in Layout, New Architecture Stabilization, Template & init Updates, and more",
-    "link": "https://reactnative.dev/blog/2024/08/12/release-0.75",
-    "pubDate": "Wed, 14 Aug 2024 00:00:00 GMT",
-    "source": "React Native",
-    "contentSnippet": "Today we are excited to release React Native 0.75!"
   }
 ]
