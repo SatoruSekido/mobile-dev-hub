@@ -7,6 +7,20 @@
     "contentSnippet": "This month: Watch a new code-along video to discover how to use the Foundation Models framework to access the on-device LLM that powers Apple Intelligence.\nPlus, dive into new games offerings, explore"
   },
   {
+    "title": "3rd-Party On-Device Models [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/third-party-ai/49480643-3rd-party-on-device-models",
+    "pubDate": "2025-10-07T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>Incorporating third-party machine learning models requires knowledge about the source model as well\nas some Core ML conversion techniques. This module will get you started with incorporating such a"
+  },
+  {
+    "title": "Integrating ChatGPT in Your iOS Apps [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/third-party-ai/49480710-integrating-chatgpt-in-your-ios-apps",
+    "pubDate": "2025-10-07T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>This module explores the integration of ChatGPT into iOS apps, enabling powerful\nconversational AI capabilities. Students will learn to leverage the ChatGPT API to\ncreate dynamic, context-aware cha"
+  },
+  {
     "title": "Translation Framework [SUBSCRIBER]",
     "link": "https://www.kodeco.com/ios/paths/apple-ai-models/49307459-translation-framework",
     "pubDate": "2025-10-05T00:00:00.000Z",
@@ -42,18 +56,18 @@
     "contentSnippet": "<p>Take your app to the next level! This module will equip you with advanced techniques to optimize your network calls,\nthreading, and memory management, resulting in a faster and efficient app.\n<stro"
   },
   {
-    "title": "Introduction to SwiftUI [SUBSCRIBER]",
-    "link": "https://www.kodeco.com/ios/paths/getting-started-swiftui/49205364-introduction-to-swiftui",
-    "pubDate": "2025-09-20T00:00:00.000Z",
-    "source": "Ray Wenderlich",
-    "contentSnippet": "<p>Updated with a lesson on animations in SwiftUI! This module introduces the foundational building blocks of SwiftUI, a declarative programming paradigm.\nSwiftUI works across all of Apple’s platforms"
-  },
-  {
     "title": "Concurrency Demystified [SUBSCRIBER]",
     "link": "https://www.kodeco.com/ios/paths/networking-concurrency-swiftui/48743728-concurrency-demystified",
     "pubDate": "2025-09-20T00:00:00.000Z",
     "source": "Ray Wenderlich",
     "contentSnippet": "<p>Second version: updated with a lesson on Actors.\nUnleash the power of concurrency!\nThis module will equip you with the tools and techniques to handle multiple\ntasks simultaneously, keeping your app"
+  },
+  {
+    "title": "Introduction to SwiftUI [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/getting-started-swiftui/49205364-introduction-to-swiftui",
+    "pubDate": "2025-09-20T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>Updated with a lesson on animations in SwiftUI! This module introduces the foundational building blocks of SwiftUI, a declarative programming paradigm.\nSwiftUI works across all of Apple’s platforms"
   },
   {
     "title": "Introduction to Version Control [SUBSCRIBER]",
@@ -126,13 +140,6 @@
     "contentSnippet": "Sign up for new Apple developer workshops all over the world. Plus, download Apple UI design kits for Figma and Sketch, meet the Italy-based team behind Sunlitt, and more.\nRead more"
   },
   {
-    "title": "Advanced Swift Concurrency [SUBSCRIBER]",
-    "link": "https://www.kodeco.com/ios/paths/advanced-swift-techniques/46682421-advanced-swift-concurrency",
-    "pubDate": "2025-07-30T00:00:00.000Z",
-    "source": "Ray Wenderlich",
-    "contentSnippet": "<p>Harness the power of Swift Concurrency through usage of async/await and suspending functions.\nLearn how Swift Actors can be used in concurrent environments. Explore the benefits of Swift\n6 Language"
-  },
-  {
     "title": "Updated age ratings in App Store Connect",
     "link": "https://developer.apple.com/news/?id=ks775ehf",
     "pubDate": "Thu, 24 Jul 2025 06:00:43 PDT",
@@ -159,13 +166,6 @@
     "pubDate": "Tue, 22 Jul 2025 06:00:43 PDT",
     "source": "Apple Developer",
     "contentSnippet": "Beginning April 2026, watchOS apps uploaded to App Store Connect must also include 64-bit support and be built with the watchOS 26 SDK. To enable 64-bit support in your project, we recommend using the"
-  },
-  {
-    "title": "AI-Assisted Development for iOS [SUBSCRIBER]",
-    "link": "https://www.kodeco.com/ios/paths/ai-assisted-ios-dev/48114023-ai-assisted-development-for-ios",
-    "pubDate": "2025-07-18T00:00:00.000Z",
-    "source": "Ray Wenderlich",
-    "contentSnippet": "<p>AI is coming for your job. And your life. Or maybe it isn’t. Who, other\nthan Sarah Connor, knows? Whilst we wait for the AI apocalypse, join us\non this course to discover how you can benefit from a"
   },
   {
     "title": "React Native 0.80 - React 19.1, JS API Changes, Freezing Legacy Arch and much more",
