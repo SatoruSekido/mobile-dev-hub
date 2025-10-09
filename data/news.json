@@ -28,6 +28,13 @@
     "contentSnippet": "Today we're excited to release React Native 0.82: the first React Native that runs entirely on the New Architecture."
   },
   {
+    "title": "Custom Models with Create ML [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/apple-ai-models/49480606-custom-models-with-create-ml",
+    "pubDate": "2025-10-08T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>Create ML empowers you to customize pre-built machine learning\nmodels on Apple platforms by providing training datasets.\nExplore various use cases and deploy a custom model into an app. Updated to "
+  },
+  {
     "title": "Hello Developer: October 2025",
     "link": "https://developer.apple.com/news/?id=glqa1owr",
     "pubDate": "Tue, 07 Oct 2025 05:00:16 PDT",
@@ -35,18 +42,18 @@
     "contentSnippet": "This month: Watch a new code-along video to discover how to use the Foundation Models framework to access the on-device LLM that powers Apple Intelligence.\nPlus, dive into new games offerings, explore"
   },
   {
-    "title": "3rd-Party On-Device Models [SUBSCRIBER]",
-    "link": "https://www.kodeco.com/ios/paths/third-party-ai/49480643-3rd-party-on-device-models",
-    "pubDate": "2025-10-07T00:00:00.000Z",
-    "source": "Ray Wenderlich",
-    "contentSnippet": "<p>Incorporating third-party machine learning models requires knowledge about the source model as well\nas some Core ML conversion techniques. This module will get you started with incorporating such a"
-  },
-  {
     "title": "Integrating ChatGPT in Your iOS Apps [SUBSCRIBER]",
     "link": "https://www.kodeco.com/ios/paths/third-party-ai/49480710-integrating-chatgpt-in-your-ios-apps",
     "pubDate": "2025-10-07T00:00:00.000Z",
     "source": "Ray Wenderlich",
     "contentSnippet": "<p>This module explores the integration of ChatGPT into iOS apps, enabling powerful\nconversational AI capabilities. Students will learn to leverage the ChatGPT API to\ncreate dynamic, context-aware cha"
+  },
+  {
+    "title": "3rd-Party On-Device Models [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/third-party-ai/49480643-3rd-party-on-device-models",
+    "pubDate": "2025-10-07T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>Incorporating third-party machine learning models requires knowledge about the source model as well\nas some Core ML conversion techniques. This module will get you started with incorporating such a"
   },
   {
     "title": "Translation Framework [SUBSCRIBER]",
@@ -84,18 +91,18 @@
     "contentSnippet": "<p>Take your app to the next level! This module will equip you with advanced techniques to optimize your network calls,\nthreading, and memory management, resulting in a faster and efficient app.\n<stro"
   },
   {
-    "title": "Concurrency Demystified [SUBSCRIBER]",
-    "link": "https://www.kodeco.com/ios/paths/networking-concurrency-swiftui/48743728-concurrency-demystified",
-    "pubDate": "2025-09-20T00:00:00.000Z",
-    "source": "Ray Wenderlich",
-    "contentSnippet": "<p>Second version: updated with a lesson on Actors.\nUnleash the power of concurrency!\nThis module will equip you with the tools and techniques to handle multiple\ntasks simultaneously, keeping your app"
-  },
-  {
     "title": "Introduction to SwiftUI [SUBSCRIBER]",
     "link": "https://www.kodeco.com/ios/paths/getting-started-swiftui/49205364-introduction-to-swiftui",
     "pubDate": "2025-09-20T00:00:00.000Z",
     "source": "Ray Wenderlich",
     "contentSnippet": "<p>Updated with a lesson on animations in SwiftUI! This module introduces the foundational building blocks of SwiftUI, a declarative programming paradigm.\nSwiftUI works across all of Apple’s platforms"
+  },
+  {
+    "title": "Concurrency Demystified [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/networking-concurrency-swiftui/48743728-concurrency-demystified",
+    "pubDate": "2025-09-20T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>Second version: updated with a lesson on Actors.\nUnleash the power of concurrency!\nThis module will equip you with the tools and techniques to handle multiple\ntasks simultaneously, keeping your app"
   },
   {
     "title": "Introduction to Version Control [SUBSCRIBER]",
@@ -145,13 +152,6 @@
     "pubDate": "Thu, 14 Aug 2025 18:23:26 GMT",
     "source": "Flutter Medium",
     "contentSnippet": ""
-  },
-  {
-    "title": "Leveraging Claude Code [FREE]",
-    "link": "https://www.kodeco.com/48516177-leveraging-claude-code",
-    "pubDate": "2025-08-14T18:00:04.000Z",
-    "source": "Ray Wenderlich",
-    "contentSnippet": "Tired of copying code between AI chat windows and your editor? Claude Code brings AI-powered development directly to your command line and your IDE. This tutorial covers installation, project creation"
   },
   {
     "title": "React Native 0.81 - Android 16 support, faster iOS builds, and more",
