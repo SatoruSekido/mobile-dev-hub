@@ -1,5 +1,19 @@
 [
   {
+    "title": "New requirement for apps using Sign in with Apple for account creation",
+    "link": "https://developer.apple.com/news/?id=j9zukcr6",
+    "pubDate": "Thu, 09 Oct 2025 05:00:09 PDT",
+    "source": "Apple Developer",
+    "contentSnippet": "Starting January 1, 2026, developers based in the Republic of Korea must provide a server‑to‑server notification endpoint when registering a new Services ID, or updating an existing Services ID, to as"
+  },
+  {
+    "title": "Vision Framework [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/apple-ai-models/49307523-vision-framework",
+    "pubDate": "2025-10-09T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>The Vision Framework is a powerful API for various computer vision tasks on Apple devices.\nExplore functionalities like object detection, face recognition and more. This module provides\nan overview"
+  },
+  {
     "title": "Meet the Flutter Extension for Gemini CLI",
     "link": "https://blog.flutter.dev/meet-the-flutter-extension-for-gemini-cli-f8be3643eaad?source=rss----4da7dfd21a33---4",
     "pubDate": "Wed, 08 Oct 2025 14:22:10 GMT",
@@ -42,18 +56,18 @@
     "contentSnippet": "This month: Watch a new code-along video to discover how to use the Foundation Models framework to access the on-device LLM that powers Apple Intelligence.\nPlus, dive into new games offerings, explore"
   },
   {
-    "title": "Integrating ChatGPT in Your iOS Apps [SUBSCRIBER]",
-    "link": "https://www.kodeco.com/ios/paths/third-party-ai/49480710-integrating-chatgpt-in-your-ios-apps",
-    "pubDate": "2025-10-07T00:00:00.000Z",
-    "source": "Ray Wenderlich",
-    "contentSnippet": "<p>This module explores the integration of ChatGPT into iOS apps, enabling powerful\nconversational AI capabilities. Students will learn to leverage the ChatGPT API to\ncreate dynamic, context-aware cha"
-  },
-  {
     "title": "3rd-Party On-Device Models [SUBSCRIBER]",
     "link": "https://www.kodeco.com/ios/paths/third-party-ai/49480643-3rd-party-on-device-models",
     "pubDate": "2025-10-07T00:00:00.000Z",
     "source": "Ray Wenderlich",
     "contentSnippet": "<p>Incorporating third-party machine learning models requires knowledge about the source model as well\nas some Core ML conversion techniques. This module will get you started with incorporating such a"
+  },
+  {
+    "title": "Integrating ChatGPT in Your iOS Apps [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/third-party-ai/49480710-integrating-chatgpt-in-your-ios-apps",
+    "pubDate": "2025-10-07T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>This module explores the integration of ChatGPT into iOS apps, enabling powerful\nconversational AI capabilities. Students will learn to leverage the ChatGPT API to\ncreate dynamic, context-aware cha"
   },
   {
     "title": "Translation Framework [SUBSCRIBER]",
@@ -119,13 +133,6 @@
     "contentSnippet": "iOS 26, iPadOS 26, macOS Tahoe 26, tvOS 26, visionOS 26, and watchOS 26 will soon be available to customers worldwide — which means you can now submit apps and games that take advantage of Apple’s bro"
   },
   {
-    "title": "Advanced Error Handling & Result Types [SUBSCRIBER]",
-    "link": "https://www.kodeco.com/ios/paths/advanced-swift-techniques/46682496-advanced-error-handling-result-types",
-    "pubDate": "2025-09-05T00:00:00.000Z",
-    "source": "Ray Wenderlich",
-    "contentSnippet": "<p>Production code is all about handling errors: programming errors, user input errors, asynchronous errors. In this course, you’ll review basic error handling with optionals and throw-catch, then lea"
-  },
-  {
     "title": "Hello Developer: September 2025",
     "link": "https://developer.apple.com/news/?id=6zd7a3al",
     "pubDate": "Tue, 02 Sep 2025 05:00:16 PDT",
@@ -159,13 +166,6 @@
     "pubDate": "Tue, 12 Aug 2025 00:00:00 GMT",
     "source": "React Native",
     "contentSnippet": "Today we are excited to release React Native 0.81!"
-  },
-  {
-    "title": "Hello Developer: August 2025",
-    "link": "https://developer.apple.com/news/?id=4qkavrhc",
-    "pubDate": "Tue, 05 Aug 2025 05:00:16 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "Sign up for new Apple developer workshops all over the world. Plus, download Apple UI design kits for Figma and Sketch, meet the Italy-based team behind Sunlitt, and more.\nRead more"
   },
   {
     "title": "Unleash new AI capabilities for Flutter in Firebase Studio",
