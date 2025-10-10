@@ -1,5 +1,12 @@
 [
   {
+    "title": "Genmoji [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/ux-apple-intelligence/49710741-genmoji",
+    "pubDate": "2025-10-10T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>Explore Genmoji, enhancing your apps with expressive, customizable emojis. Learn to render, store, and communicate with text that includes Genmoji, Memoji, and other sticker-type images. Updated to"
+  },
+  {
     "title": "New requirement for apps using Sign in with Apple for account creation",
     "link": "https://developer.apple.com/news/?id=j9zukcr6",
     "pubDate": "Thu, 09 Oct 2025 05:00:09 PDT",
@@ -56,18 +63,18 @@
     "contentSnippet": "This month: Watch a new code-along video to discover how to use the Foundation Models framework to access the on-device LLM that powers Apple Intelligence.\nPlus, dive into new games offerings, explore"
   },
   {
-    "title": "3rd-Party On-Device Models [SUBSCRIBER]",
-    "link": "https://www.kodeco.com/ios/paths/third-party-ai/49480643-3rd-party-on-device-models",
-    "pubDate": "2025-10-07T00:00:00.000Z",
-    "source": "Ray Wenderlich",
-    "contentSnippet": "<p>Incorporating third-party machine learning models requires knowledge about the source model as well\nas some Core ML conversion techniques. This module will get you started with incorporating such a"
-  },
-  {
     "title": "Integrating ChatGPT in Your iOS Apps [SUBSCRIBER]",
     "link": "https://www.kodeco.com/ios/paths/third-party-ai/49480710-integrating-chatgpt-in-your-ios-apps",
     "pubDate": "2025-10-07T00:00:00.000Z",
     "source": "Ray Wenderlich",
     "contentSnippet": "<p>This module explores the integration of ChatGPT into iOS apps, enabling powerful\nconversational AI capabilities. Students will learn to leverage the ChatGPT API to\ncreate dynamic, context-aware cha"
+  },
+  {
+    "title": "3rd-Party On-Device Models [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/third-party-ai/49480643-3rd-party-on-device-models",
+    "pubDate": "2025-10-07T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>Incorporating third-party machine learning models requires knowledge about the source model as well\nas some Core ML conversion techniques. This module will get you started with incorporating such a"
   },
   {
     "title": "Translation Framework [SUBSCRIBER]",
@@ -105,13 +112,6 @@
     "contentSnippet": "<p>Take your app to the next level! This module will equip you with advanced techniques to optimize your network calls,\nthreading, and memory management, resulting in a faster and efficient app.\n<stro"
   },
   {
-    "title": "Introduction to SwiftUI [SUBSCRIBER]",
-    "link": "https://www.kodeco.com/ios/paths/getting-started-swiftui/49205364-introduction-to-swiftui",
-    "pubDate": "2025-09-20T00:00:00.000Z",
-    "source": "Ray Wenderlich",
-    "contentSnippet": "<p>Updated with a lesson on animations in SwiftUI! This module introduces the foundational building blocks of SwiftUI, a declarative programming paradigm.\nSwiftUI works across all of Apple’s platforms"
-  },
-  {
     "title": "Concurrency Demystified [SUBSCRIBER]",
     "link": "https://www.kodeco.com/ios/paths/networking-concurrency-swiftui/48743728-concurrency-demystified",
     "pubDate": "2025-09-20T00:00:00.000Z",
@@ -119,11 +119,11 @@
     "contentSnippet": "<p>Second version: updated with a lesson on Actors.\nUnleash the power of concurrency!\nThis module will equip you with the tools and techniques to handle multiple\ntasks simultaneously, keeping your app"
   },
   {
-    "title": "Introduction to Version Control [SUBSCRIBER]",
-    "link": "https://www.kodeco.com/ios/paths/foundational-tools-ios/48743434-introduction-to-version-control",
-    "pubDate": "2025-09-14T00:00:00.000Z",
+    "title": "Introduction to SwiftUI [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/getting-started-swiftui/49205364-introduction-to-swiftui",
+    "pubDate": "2025-09-20T00:00:00.000Z",
     "source": "Ray Wenderlich",
-    "contentSnippet": "<p>In this module, you’ll learn what a version control system is and why using one is important for any software development project. You’ll also learn the basics of using Git, the most popular system"
+    "contentSnippet": "<p>Updated with a lesson on animations in SwiftUI! This module introduces the foundational building blocks of SwiftUI, a declarative programming paradigm.\nSwiftUI works across all of Apple’s platforms"
   },
   {
     "title": "App Store submissions now open for the latest OS releases",
