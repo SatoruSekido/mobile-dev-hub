@@ -1,5 +1,12 @@
 [
   {
+    "title": "Writing Tools with Apple Intelligence [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/ux-apple-intelligence/49480768-writing-tools-with-apple-intelligence",
+    "pubDate": "2025-10-14T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>Learn about Apple Intelligence Writing Tools and how to configure them in SwiftUI and UIKit. Understand how custom text views can offer a full Writing Tools experience, and what’s available for vie"
+  },
+  {
     "title": "Genmoji [SUBSCRIBER]",
     "link": "https://www.kodeco.com/ios/paths/ux-apple-intelligence/49710741-genmoji",
     "pubDate": "2025-10-10T00:00:00.000Z",
@@ -63,18 +70,18 @@
     "contentSnippet": "This month: Watch a new code-along video to discover how to use the Foundation Models framework to access the on-device LLM that powers Apple Intelligence.\nPlus, dive into new games offerings, explore"
   },
   {
-    "title": "Integrating ChatGPT in Your iOS Apps [SUBSCRIBER]",
-    "link": "https://www.kodeco.com/ios/paths/third-party-ai/49480710-integrating-chatgpt-in-your-ios-apps",
-    "pubDate": "2025-10-07T00:00:00.000Z",
-    "source": "Ray Wenderlich",
-    "contentSnippet": "<p>This module explores the integration of ChatGPT into iOS apps, enabling powerful\nconversational AI capabilities. Students will learn to leverage the ChatGPT API to\ncreate dynamic, context-aware cha"
-  },
-  {
     "title": "3rd-Party On-Device Models [SUBSCRIBER]",
     "link": "https://www.kodeco.com/ios/paths/third-party-ai/49480643-3rd-party-on-device-models",
     "pubDate": "2025-10-07T00:00:00.000Z",
     "source": "Ray Wenderlich",
     "contentSnippet": "<p>Incorporating third-party machine learning models requires knowledge about the source model as well\nas some Core ML conversion techniques. This module will get you started with incorporating such a"
+  },
+  {
+    "title": "Integrating ChatGPT in Your iOS Apps [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/third-party-ai/49480710-integrating-chatgpt-in-your-ios-apps",
+    "pubDate": "2025-10-07T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>This module explores the integration of ChatGPT into iOS apps, enabling powerful\nconversational AI capabilities. Students will learn to leverage the ChatGPT API to\ncreate dynamic, context-aware cha"
   },
   {
     "title": "Translation Framework [SUBSCRIBER]",
@@ -117,13 +124,6 @@
     "pubDate": "2025-09-20T00:00:00.000Z",
     "source": "Ray Wenderlich",
     "contentSnippet": "<p>Second version: updated with a lesson on Actors.\nUnleash the power of concurrency!\nThis module will equip you with the tools and techniques to handle multiple\ntasks simultaneously, keeping your app"
-  },
-  {
-    "title": "Introduction to SwiftUI [SUBSCRIBER]",
-    "link": "https://www.kodeco.com/ios/paths/getting-started-swiftui/49205364-introduction-to-swiftui",
-    "pubDate": "2025-09-20T00:00:00.000Z",
-    "source": "Ray Wenderlich",
-    "contentSnippet": "<p>Updated with a lesson on animations in SwiftUI! This module introduces the foundational building blocks of SwiftUI, a declarative programming paradigm.\nSwiftUI works across all of Apple’s platforms"
   },
   {
     "title": "App Store submissions now open for the latest OS releases",
