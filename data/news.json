@@ -1,5 +1,12 @@
 [
   {
+    "title": "App Intents with Siri [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/ux-apple-intelligence/49480840-app-intents-with-siri",
+    "pubDate": "2025-10-16T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>This module focuses on the latest Siri and App Intents update with Apple Intelligence. Students will learn how to leverage these powerful tools to create deeply integrated, context-aware iOS apps t"
+  },
+  {
     "title": "Writing Tools with Apple Intelligence [SUBSCRIBER]",
     "link": "https://www.kodeco.com/ios/paths/ux-apple-intelligence/49480768-writing-tools-with-apple-intelligence",
     "pubDate": "2025-10-14T00:00:00.000Z",
@@ -117,13 +124,6 @@
     "pubDate": "2025-09-21T00:00:00.000Z",
     "source": "Ray Wenderlich",
     "contentSnippet": "<p>Take your app to the next level! This module will equip you with advanced techniques to optimize your network calls,\nthreading, and memory management, resulting in a faster and efficient app.\n<stro"
-  },
-  {
-    "title": "Concurrency Demystified [SUBSCRIBER]",
-    "link": "https://www.kodeco.com/ios/paths/networking-concurrency-swiftui/48743728-concurrency-demystified",
-    "pubDate": "2025-09-20T00:00:00.000Z",
-    "source": "Ray Wenderlich",
-    "contentSnippet": "<p>Second version: updated with a lesson on Actors.\nUnleash the power of concurrency!\nThis module will equip you with the tools and techniques to handle multiple\ntasks simultaneously, keeping your app"
   },
   {
     "title": "App Store submissions now open for the latest OS releases",
