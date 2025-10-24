@@ -1,5 +1,12 @@
 [
   {
+    "title": "App Observability [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/advanced-swift-techniques/48744256-app-observability",
+    "pubDate": "2025-10-24T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>This module covers the basic concepts of App Observability (App Telemetry) which allows you to gather insights, possibly in real-time on how your application is performing on users’ devices around "
+  },
+  {
     "title": "App Intents with Siri [SUBSCRIBER]",
     "link": "https://www.kodeco.com/ios/paths/ux-apple-intelligence/49480840-app-intents-with-siri",
     "pubDate": "2025-10-16T00:00:00.000Z",
@@ -77,18 +84,18 @@
     "contentSnippet": "This month: Watch a new code-along video to discover how to use the Foundation Models framework to access the on-device LLM that powers Apple Intelligence.\nPlus, dive into new games offerings, explore"
   },
   {
-    "title": "3rd-Party On-Device Models [SUBSCRIBER]",
-    "link": "https://www.kodeco.com/ios/paths/third-party-ai/49480643-3rd-party-on-device-models",
-    "pubDate": "2025-10-07T00:00:00.000Z",
-    "source": "Ray Wenderlich",
-    "contentSnippet": "<p>Incorporating third-party machine learning models requires knowledge about the source model as well\nas some Core ML conversion techniques. This module will get you started with incorporating such a"
-  },
-  {
     "title": "Integrating ChatGPT in Your iOS Apps [SUBSCRIBER]",
     "link": "https://www.kodeco.com/ios/paths/third-party-ai/49480710-integrating-chatgpt-in-your-ios-apps",
     "pubDate": "2025-10-07T00:00:00.000Z",
     "source": "Ray Wenderlich",
     "contentSnippet": "<p>This module explores the integration of ChatGPT into iOS apps, enabling powerful\nconversational AI capabilities. Students will learn to leverage the ChatGPT API to\ncreate dynamic, context-aware cha"
+  },
+  {
+    "title": "3rd-Party On-Device Models [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/third-party-ai/49480643-3rd-party-on-device-models",
+    "pubDate": "2025-10-07T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>Incorporating third-party machine learning models requires knowledge about the source model as well\nas some Core ML conversion techniques. This module will get you started with incorporating such a"
   },
   {
     "title": "Translation Framework [SUBSCRIBER]",
@@ -117,13 +124,6 @@
     "pubDate": "Mon, 22 Sep 2025 07:00:14 PDT",
     "source": "Apple Developer",
     "contentSnippet": "The beta versions of iOS 26.1, iPadOS 26.1, macOS 26.1, tvOS 26.1, visionOS 26.1, and watchOS 26.1 are now available. Get your apps ready by confirming they work as expected on these releases. And to "
-  },
-  {
-    "title": "Performance Optimization [SUBSCRIBER]",
-    "link": "https://www.kodeco.com/ios/paths/networking-concurrency-swiftui/48743668-performance-optimization",
-    "pubDate": "2025-09-21T00:00:00.000Z",
-    "source": "Ray Wenderlich",
-    "contentSnippet": "<p>Take your app to the next level! This module will equip you with advanced techniques to optimize your network calls,\nthreading, and memory management, resulting in a faster and efficient app.\n<stro"
   },
   {
     "title": "App Store submissions now open for the latest OS releases",
