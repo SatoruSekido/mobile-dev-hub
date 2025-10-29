@@ -77,6 +77,13 @@
     "contentSnippet": "<p>Create ML empowers you to customize pre-built machine learning\nmodels on Apple platforms by providing training datasets.\nExplore various use cases and deploy a custom model into an app. Updated to "
   },
   {
+    "title": "Hello Developer: October 2025",
+    "link": "https://developer.apple.com/news/?id=glqa1owr",
+    "pubDate": "Tue, 07 Oct 2025 05:00:16 PDT",
+    "source": "Apple Developer",
+    "contentSnippet": "This month: Watch a new code-along video to discover how to use the Foundation Models framework to access the on-device LLM that powers Apple Intelligence.\nPlus, dive into new games offerings, explore"
+  },
+  {
     "title": "Integrating ChatGPT in Your iOS Apps [SUBSCRIBER]",
     "link": "https://www.kodeco.com/ios/paths/third-party-ai/49480710-integrating-chatgpt-in-your-ios-apps",
     "pubDate": "2025-10-07T00:00:00.000Z",
@@ -126,6 +133,13 @@
     "contentSnippet": "iOS 26, iPadOS 26, macOS Tahoe 26, tvOS 26, visionOS 26, and watchOS 26 will soon be available to customers worldwide — which means you can now submit apps and games that take advantage of Apple’s bro"
   },
   {
+    "title": "Hello Developer: September 2025",
+    "link": "https://developer.apple.com/news/?id=6zd7a3al",
+    "pubDate": "Tue, 02 Sep 2025 05:00:16 PDT",
+    "source": "Apple Developer",
+    "contentSnippet": "Be ready for the new design. Whether you’re a longtime pro or a hobbyist, get inspired and make your apps and games look their best by exploring videos, downloads, and docs.\nPlus, sign up for one-on-o"
+  },
+  {
     "title": "Awe dropping.",
     "link": "https://developer.apple.com/news/?id=p9nukitr",
     "pubDate": "Tue, 26 Aug 2025 07:00:09 PDT",
@@ -154,13 +168,6 @@
     "contentSnippet": "Today we are excited to release React Native 0.81!"
   },
   {
-    "title": "Updated age ratings in App Store Connect",
-    "link": "https://developer.apple.com/news/?id=ks775ehf",
-    "pubDate": "Thu, 24 Jul 2025 06:00:43 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "The App Store is designed to be a safe and trusted place for all ages, including children. The age rating system for apps and games has been updated in order to provide people with more granular age r"
-  },
-  {
     "title": "Unleash new AI capabilities for Flutter in Firebase Studio",
     "link": "https://blog.flutter.dev/unleash-new-ai-capabilities-for-flutter-in-firebase-studio-9a8c94564635?source=rss----4da7dfd21a33---4",
     "pubDate": "Wed, 23 Jul 2025 05:02:36 GMT",
@@ -173,13 +180,6 @@
     "pubDate": "Wed, 23 Jul 2025 05:02:33 GMT",
     "source": "Flutter Medium",
     "contentSnippet": ""
-  },
-  {
-    "title": "New 64-bit requirement for watchOS apps",
-    "link": "https://developer.apple.com/news/?id=zt8rydnt",
-    "pubDate": "Tue, 22 Jul 2025 06:00:43 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "Beginning April 2026, watchOS apps uploaded to App Store Connect must also include 64-bit support and be built with the watchOS 26 SDK. To enable 64-bit support in your project, we recommend using the"
   },
   {
     "title": "React Native 0.80 - React 19.1, JS API Changes, Freezing Legacy Arch and much more",
