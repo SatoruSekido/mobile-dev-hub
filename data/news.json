@@ -1,5 +1,12 @@
 [
   {
+    "title": "Enhancements to help you submit and market your apps and games",
+    "link": "https://developer.apple.com/news/?id=gf6mgrs6",
+    "pubDate": "Wed, 29 Oct 2025 06:00:28 PDT",
+    "source": "Apple Developer",
+    "contentSnippet": "As part of our ongoing commitment to helping developers succeed on the App Store, we’re introducing new options for submitting content and updates while your app is in review, double the number of cus"
+  },
+  {
     "title": "App Observability [SUBSCRIBER]",
     "link": "https://www.kodeco.com/ios/paths/advanced-swift-techniques/48744256-app-observability",
     "pubDate": "2025-10-24T00:00:00.000Z",
@@ -145,13 +152,6 @@
     "pubDate": "Tue, 26 Aug 2025 07:00:09 PDT",
     "source": "Apple Developer",
     "contentSnippet": "Join us for a special Apple Event on September 9 at 10 a.m. PT.\nWatch on apple.com, Apple TV, or YouTube Live."
-  },
-  {
-    "title": "Tax and Price Updates for Apps, In-App Purchases, and Subscriptions",
-    "link": "https://developer.apple.com/news/?id=yo2104n5",
-    "pubDate": "Thu, 21 Aug 2025 06:00:46 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "The App Store is designed to make it easy to sell your digital goods and services globally, with support for 44 currencies across 175 storefronts.\nFrom time to time, we need to adjust prices or your p"
   },
   {
     "title": "What’s new in Flutter 3.35",
