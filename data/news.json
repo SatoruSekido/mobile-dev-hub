@@ -1,5 +1,12 @@
 [
   {
+    "title": "Price updates for apps, In-App Purchases, and subscriptions",
+    "link": "https://developer.apple.com/news/?id=nomqoqfm",
+    "pubDate": "Thu, 30 Oct 2025 06:00:46 PDT",
+    "source": "Apple Developer",
+    "contentSnippet": "The App Store is designed to make it easy to sell your digital goods and services globally, with support for 44 currencies across 175 storefronts.\nFrom time to time, we may need to adjust prices or yo"
+  },
+  {
     "title": "Enhancements to help you submit and market your apps and games",
     "link": "https://developer.apple.com/news/?id=gf6mgrs6",
     "pubDate": "Wed, 29 Oct 2025 06:00:28 PDT",
@@ -145,13 +152,6 @@
     "pubDate": "Tue, 02 Sep 2025 05:00:16 PDT",
     "source": "Apple Developer",
     "contentSnippet": "Be ready for the new design. Whether you’re a longtime pro or a hobbyist, get inspired and make your apps and games look their best by exploring videos, downloads, and docs.\nPlus, sign up for one-on-o"
-  },
-  {
-    "title": "Awe dropping.",
-    "link": "https://developer.apple.com/news/?id=p9nukitr",
-    "pubDate": "Tue, 26 Aug 2025 07:00:09 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "Join us for a special Apple Event on September 9 at 10 a.m. PT.\nWatch on apple.com, Apple TV, or YouTube Live."
   },
   {
     "title": "What’s new in Flutter 3.35",
