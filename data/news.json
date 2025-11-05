@@ -1,5 +1,19 @@
 [
   {
+    "title": "Next Steps for Apps Distributed in Texas",
+    "link": "https://developer.apple.com/news/?id=2ezb6jhj",
+    "pubDate": "Tue, 04 Nov 2025 08:00:48 PST",
+    "source": "Apple Developer",
+    "contentSnippet": "Today we’re releasing more details about the tools we’re making available for developers to help them meet their compliance obligations under upcoming U.S. state laws, including SB2420 in Texas. While"
+  },
+  {
+    "title": "Get ready with the latest beta releases",
+    "link": "https://developer.apple.com/news/?id=8atty4sp",
+    "pubDate": "Tue, 04 Nov 2025 07:00:14 PST",
+    "source": "Apple Developer",
+    "contentSnippet": "The beta versions of iOS 26.2, iPadOS 26.2, macOS 26.2, tvOS 26.2, visionOS 26.2, and watchOS 26.2 are now available. Get your apps ready by confirming they work as expected on these releases. And mak"
+  },
+  {
     "title": "Price updates for apps, In-App Purchases, and subscriptions",
     "link": "https://developer.apple.com/news/?id=nomqoqfm",
     "pubDate": "Thu, 30 Oct 2025 06:00:46 PDT",
@@ -138,20 +152,6 @@
     "pubDate": "Mon, 22 Sep 2025 07:00:14 PDT",
     "source": "Apple Developer",
     "contentSnippet": "The beta versions of iOS 26.1, iPadOS 26.1, macOS 26.1, tvOS 26.1, visionOS 26.1, and watchOS 26.1 are now available. Get your apps ready by confirming they work as expected on these releases. And to "
-  },
-  {
-    "title": "App Store submissions now open for the latest OS releases",
-    "link": "https://developer.apple.com/news/?id=6lxhtioi",
-    "pubDate": "Tue, 09 Sep 2025 05:00:09 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "iOS 26, iPadOS 26, macOS Tahoe 26, tvOS 26, visionOS 26, and watchOS 26 will soon be available to customers worldwide — which means you can now submit apps and games that take advantage of Apple’s bro"
-  },
-  {
-    "title": "Hello Developer: September 2025",
-    "link": "https://developer.apple.com/news/?id=6zd7a3al",
-    "pubDate": "Tue, 02 Sep 2025 05:00:16 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "Be ready for the new design. Whether you’re a longtime pro or a hobbyist, get inspired and make your apps and games look their best by exploring videos, downloads, and docs.\nPlus, sign up for one-on-o"
   },
   {
     "title": "What’s new in Flutter 3.35",
