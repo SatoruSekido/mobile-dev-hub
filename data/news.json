@@ -1,5 +1,19 @@
 [
   {
+    "title": "Hello Developer: November 2025",
+    "link": "https://developer.apple.com/news/?id=38c9vryd",
+    "pubDate": "Thu, 06 Nov 2025 05:00:16 PST",
+    "source": "Apple Developer",
+    "contentSnippet": "In this edition: Catch the new design in the wild, and let Apple experts show you how to quickly and easily bring it to your apps. Plus, get the latest on the Swift Student Challenge 2026, and check o"
+  },
+  {
+    "title": "Liquid Glass [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/new-ios26/48376615-liquid-glass",
+    "pubDate": "2025-11-06T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>Liquid Glass is the new design language for Apple platforms. This module\nillustrates the process of incorporating Liquid Glass into your own iOS app.\nYou’ll learn how to add specific Liquid Glass f"
+  },
+  {
     "title": "Next Steps for Apps Distributed in Texas",
     "link": "https://developer.apple.com/news/?id=2ezb6jhj",
     "pubDate": "Tue, 04 Nov 2025 08:00:48 PST",
@@ -133,25 +147,11 @@
     "contentSnippet": "<p>The Translation API offers realtime translations in your app. You can use the\nbuilt-in UI or manage the translation session to customize the app experience\nbased on your user’s needs. Updated to iO"
   },
   {
-    "title": "Apple Foundation Models [SUBSCRIBER]",
-    "link": "https://www.kodeco.com/ios/paths/apple-ai-models/48744203-apple-foundation-models",
-    "pubDate": "2025-10-02T00:00:00.000Z",
-    "source": "Ray Wenderlich",
-    "contentSnippet": "<p>This module will be an introduction to the new Foundation Models framework in Swift. The module begins with an introduction to the Foundation Models Framework by\ncreating a simple SwiftUI chat-type"
-  },
-  {
     "title": "Upcoming Currency Change in Bulgaria",
     "link": "https://developer.apple.com/news/?id=rbfp3bpb",
     "pubDate": "Thu, 25 Sep 2025 09:00:46 PDT",
     "source": "Apple Developer",
     "contentSnippet": "Beginning January 1, 2026, Bulgaria will adopt the euro (EUR) as its official currency, replacing the Bulgarian lev (BGN). As a result, the currency for App Store purchases and subscriptions in Bulgar"
-  },
-  {
-    "title": "Get ready with the latest beta releases",
-    "link": "https://developer.apple.com/news/?id=4uj8znqq",
-    "pubDate": "Mon, 22 Sep 2025 07:00:14 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "The beta versions of iOS 26.1, iPadOS 26.1, macOS 26.1, tvOS 26.1, visionOS 26.1, and watchOS 26.1 are now available. Get your apps ready by confirming they work as expected on these releases. And to "
   },
   {
     "title": "What’s new in Flutter 3.35",
