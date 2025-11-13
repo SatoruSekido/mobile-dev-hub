@@ -14,46 +14,11 @@
     "contentSnippet": ""
   },
   {
-    "title": "Hello Developer: November 2025",
-    "link": "https://developer.apple.com/news/?id=38c9vryd",
-    "pubDate": "Thu, 06 Nov 2025 05:00:16 PST",
-    "source": "Apple Developer",
-    "contentSnippet": "In this edition: Catch the new design in the wild, and let Apple experts show you how to quickly and easily bring it to your apps. Plus, get the latest on the Swift Student Challenge 2026, and check o"
-  },
-  {
     "title": "Liquid Glass [SUBSCRIBER]",
     "link": "https://www.kodeco.com/ios/paths/new-ios26/48376615-liquid-glass",
     "pubDate": "2025-11-06T00:00:00.000Z",
     "source": "Ray Wenderlich",
     "contentSnippet": "<p>Liquid Glass is the new design language for Apple platforms. This module\nillustrates the process of incorporating Liquid Glass into your own iOS app.\nYou’ll learn how to add specific Liquid Glass f"
-  },
-  {
-    "title": "Next steps for apps distributed in Texas",
-    "link": "https://developer.apple.com/news/?id=2ezb6jhj",
-    "pubDate": "Tue, 04 Nov 2025 08:00:48 PST",
-    "source": "Apple Developer",
-    "contentSnippet": "Today we’re releasing more details about the tools we’re making available for developers to help them meet their compliance obligations under upcoming U.S. state laws, including SB2420 in Texas. While"
-  },
-  {
-    "title": "Get ready with the latest beta releases",
-    "link": "https://developer.apple.com/news/?id=8atty4sp",
-    "pubDate": "Tue, 04 Nov 2025 07:00:14 PST",
-    "source": "Apple Developer",
-    "contentSnippet": "The beta versions of iOS 26.2, iPadOS 26.2, macOS 26.2, tvOS 26.2, visionOS 26.2, and watchOS 26.2 are now available. Get your apps ready by confirming they work as expected on these releases. And mak"
-  },
-  {
-    "title": "Price updates for apps, In-App Purchases, and subscriptions",
-    "link": "https://developer.apple.com/news/?id=nomqoqfm",
-    "pubDate": "Thu, 30 Oct 2025 06:00:46 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "The App Store is designed to make it easy to sell your digital goods and services globally, with support for 44 currencies across 175 storefronts.\nFrom time to time, we may need to adjust prices or yo"
-  },
-  {
-    "title": "Enhancements to help you submit and market your apps and games",
-    "link": "https://developer.apple.com/news/?id=gf6mgrs6",
-    "pubDate": "Wed, 29 Oct 2025 06:00:28 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "As part of our ongoing commitment to helping developers succeed on the App Store, we’re introducing new options for submitting content and updates while your app is in review, double the number of cus"
   },
   {
     "title": "App Observability [SUBSCRIBER]",
@@ -84,13 +49,6 @@
     "contentSnippet": "<p>Explore Genmoji, enhancing your apps with expressive, customizable emojis. Learn to render, store, and communicate with text that includes Genmoji, Memoji, and other sticker-type images. Updated to"
   },
   {
-    "title": "New requirement for apps using Sign in with Apple for account creation",
-    "link": "https://developer.apple.com/news/?id=j9zukcr6",
-    "pubDate": "Thu, 09 Oct 2025 05:00:09 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "Starting January 1, 2026, developers based in the Republic of Korea must provide a server‑to‑server notification endpoint when registering a new Services ID, or updating an existing Services ID, to as"
-  },
-  {
     "title": "Vision Framework [SUBSCRIBER]",
     "link": "https://www.kodeco.com/ios/paths/apple-ai-models/49307523-vision-framework",
     "pubDate": "2025-10-09T00:00:00.000Z",
@@ -105,20 +63,6 @@
     "contentSnippet": ""
   },
   {
-    "title": "Updated Apple Developer Program License Agreement now available",
-    "link": "https://developer.apple.com/news/?id=fnkpd51y",
-    "pubDate": "Wed, 08 Oct 2025 06:00:12 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "The Apple Developer Program License Agreement has been revised to support updated policies and to provide clarification. Please review the changes below and sign in to your account to accept the updat"
-  },
-  {
-    "title": "New requirements for apps available in Texas",
-    "link": "https://developer.apple.com/news/?id=btkirlj8",
-    "pubDate": "Wed, 08 Oct 2025 05:00:09 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "Beginning January 1, 2026, a new state law in Texas — SB2420 — introduces age assurance requirements for app marketplaces and developers. While we share the goal of strengthening kids’ online safety, "
-  },
-  {
     "title": "React Native 0.82 - A New Era",
     "link": "https://reactnative.dev/blog/2025/10/08/react-native-0.82",
     "pubDate": "Wed, 08 Oct 2025 00:00:00 GMT",
@@ -131,13 +75,6 @@
     "pubDate": "2025-10-08T00:00:00.000Z",
     "source": "Ray Wenderlich",
     "contentSnippet": "<p>Create ML empowers you to customize pre-built machine learning\nmodels on Apple platforms by providing training datasets.\nExplore various use cases and deploy a custom model into an app. Updated to "
-  },
-  {
-    "title": "Hello Developer: October 2025",
-    "link": "https://developer.apple.com/news/?id=glqa1owr",
-    "pubDate": "Tue, 07 Oct 2025 05:00:16 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "This month: Watch a new code-along video to discover how to use the Foundation Models framework to access the on-device LLM that powers Apple Intelligence.\nPlus, dive into new games offerings, explore"
   },
   {
     "title": "Integrating ChatGPT in Your iOS Apps [SUBSCRIBER]",
@@ -159,13 +96,6 @@
     "pubDate": "2025-10-05T00:00:00.000Z",
     "source": "Ray Wenderlich",
     "contentSnippet": "<p>The Translation API offers realtime translations in your app. You can use the\nbuilt-in UI or manage the translation session to customize the app experience\nbased on your user’s needs. Updated to iO"
-  },
-  {
-    "title": "Upcoming Currency Change in Bulgaria",
-    "link": "https://developer.apple.com/news/?id=rbfp3bpb",
-    "pubDate": "Thu, 25 Sep 2025 09:00:46 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "Beginning January 1, 2026, Bulgaria will adopt the euro (EUR) as its official currency, replacing the Bulgarian lev (BGN). As a result, the currency for App Store purchases and subscriptions in Bulgar"
   },
   {
     "title": "What’s new in Flutter 3.35",
