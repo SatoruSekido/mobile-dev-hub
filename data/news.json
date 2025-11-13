@@ -1,5 +1,19 @@
 [
   {
+    "title": "Announcing Flutter 3.38 & Dart 3.10: Building the future of apps",
+    "link": "https://blog.flutter.dev/announcing-flutter-3-38-dart-3-10-building-the-future-of-apps-503429eeb685?source=rss----4da7dfd21a33---4",
+    "pubDate": "Wed, 12 Nov 2025 20:53:26 GMT",
+    "source": "Flutter Medium",
+    "contentSnippet": ""
+  },
+  {
+    "title": "What’s new in Flutter 3.38",
+    "link": "https://blog.flutter.dev/whats-new-in-flutter-3-38-3f7b258f7228?source=rss----4da7dfd21a33---4",
+    "pubDate": "Wed, 12 Nov 2025 19:13:16 GMT",
+    "source": "Flutter Medium",
+    "contentSnippet": ""
+  },
+  {
     "title": "Hello Developer: November 2025",
     "link": "https://developer.apple.com/news/?id=38c9vryd",
     "pubDate": "Thu, 06 Nov 2025 05:00:16 PST",
@@ -224,25 +238,11 @@
     "contentSnippet": ""
   },
   {
-    "title": "Learn how to build agentic apps with Flutter, Angular, Firebase, and Vertex AI",
-    "link": "https://blog.flutter.dev/learn-how-to-build-agentic-apps-with-flutter-angular-firebase-and-vertex-ai-ad46b38b1adb?source=rss----4da7dfd21a33---4",
-    "pubDate": "Thu, 24 Apr 2025 16:23:03 GMT",
-    "source": "Flutter Medium",
-    "contentSnippet": ""
-  },
-  {
     "title": "React Native 0.79 - Faster tooling and much more",
     "link": "https://reactnative.dev/blog/2025/04/08/react-native-0.79",
     "pubDate": "Tue, 08 Apr 2025 00:00:00 GMT",
     "source": "React Native",
     "contentSnippet": "Today we are excited to release React Native 0.79!"
-  },
-  {
-    "title": "Flutter 2025 roadmap update",
-    "link": "https://blog.flutter.dev/flutter-2025-roadmap-f127882b117f?source=rss----4da7dfd21a33---4",
-    "pubDate": "Wed, 02 Apr 2025 20:27:24 GMT",
-    "source": "Flutter Medium",
-    "contentSnippet": ""
   },
   {
     "title": "React Native 0.78 - React 19 and more",
