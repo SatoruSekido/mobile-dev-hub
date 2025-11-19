@@ -1,5 +1,12 @@
 [
   {
+    "title": "App Store Award finalists announced",
+    "link": "https://developer.apple.com/news/?id=2d301eoy",
+    "pubDate": "Wed, 19 Nov 2025 06:23:30 PST",
+    "source": "Apple Developer",
+    "contentSnippet": "Every year, the App Store Awards celebrate exceptional apps and games that improve people’s lives while showcasing the highest levels of technical innovation, user experience, design, and positive cul"
+  },
+  {
     "title": "Rich and dynamic user interfaces with Flutter and generative UI",
     "link": "https://blog.flutter.dev/rich-and-dynamic-user-interfaces-with-flutter-and-generative-ui-178405af2455?source=rss----4da7dfd21a33---4",
     "pubDate": "Tue, 18 Nov 2025 16:41:23 GMT",
@@ -131,13 +138,6 @@
     "pubDate": "Wed, 08 Oct 2025 06:00:12 PDT",
     "source": "Apple Developer",
     "contentSnippet": "The Apple Developer Program License Agreement has been revised to support updated policies and to provide clarification. Please review the changes below and sign in to your account to accept the updat"
-  },
-  {
-    "title": "New requirements for apps available in Texas",
-    "link": "https://developer.apple.com/news/?id=btkirlj8",
-    "pubDate": "Wed, 08 Oct 2025 05:00:09 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "Beginning January 1, 2026, a new state law in Texas — SB2420 — introduces age assurance requirements for app marketplaces and developers. While we share the goal of strengthening kids’ online safety, "
   },
   {
     "title": "React Native 0.82 - A New Era",
