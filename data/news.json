@@ -2,16 +2,9 @@
   {
     "title": "App Store Award finalists announced",
     "link": "https://developer.apple.com/news/?id=2d301eoy",
-    "pubDate": "Wed, 19 Nov 2025 06:23:30 PST",
+    "pubDate": "Wed, 19 Nov 2025 01:00:55 PST",
     "source": "Apple Developer",
     "contentSnippet": "Every year, the App Store Awards celebrate exceptional apps and games that improve people’s lives while showcasing the highest levels of technical innovation, user experience, design, and positive cul"
-  },
-  {
-    "title": "Rich and dynamic user interfaces with Flutter and generative UI",
-    "link": "https://blog.flutter.dev/rich-and-dynamic-user-interfaces-with-flutter-and-generative-ui-178405af2455?source=rss----4da7dfd21a33---4",
-    "pubDate": "Tue, 18 Nov 2025 16:41:23 GMT",
-    "source": "Flutter Medium",
-    "contentSnippet": ""
   },
   {
     "title": "Introducing the App Store Mini Apps Partner Program",
@@ -26,20 +19,6 @@
     "pubDate": "Thu, 13 Nov 2025 07:00:11 PST",
     "source": "Apple Developer",
     "contentSnippet": "The App Review Guidelines have been revised to support updated policies and to provide clarification. Please review the changes below:\n\n1.2.1(a): This new guideline specifies that creator apps must pr"
-  },
-  {
-    "title": "Announcing Flutter 3.38 & Dart 3.10: Building the future of apps",
-    "link": "https://blog.flutter.dev/announcing-flutter-3-38-dart-3-10-building-the-future-of-apps-503429eeb685?source=rss----4da7dfd21a33---4",
-    "pubDate": "Wed, 12 Nov 2025 20:53:26 GMT",
-    "source": "Flutter Medium",
-    "contentSnippet": ""
-  },
-  {
-    "title": "What’s new in Flutter 3.38",
-    "link": "https://blog.flutter.dev/whats-new-in-flutter-3-38-3f7b258f7228?source=rss----4da7dfd21a33---4",
-    "pubDate": "Wed, 12 Nov 2025 19:13:16 GMT",
-    "source": "Flutter Medium",
-    "contentSnippet": ""
   },
   {
     "title": "Hello Developer: November 2025",
@@ -126,13 +105,6 @@
     "contentSnippet": "<p>The Vision Framework is a powerful API for various computer vision tasks on Apple devices.\nExplore functionalities like object detection, face recognition and more. This module provides\nan overview"
   },
   {
-    "title": "Meet the Flutter Extension for Gemini CLI",
-    "link": "https://blog.flutter.dev/meet-the-flutter-extension-for-gemini-cli-f8be3643eaad?source=rss----4da7dfd21a33---4",
-    "pubDate": "Wed, 08 Oct 2025 14:22:10 GMT",
-    "source": "Flutter Medium",
-    "contentSnippet": ""
-  },
-  {
     "title": "Updated Apple Developer Program License Agreement now available",
     "link": "https://developer.apple.com/news/?id=fnkpd51y",
     "pubDate": "Wed, 08 Oct 2025 06:00:12 PDT",
@@ -175,32 +147,11 @@
     "contentSnippet": "<p>The Translation API offers realtime translations in your app. You can use the\nbuilt-in UI or manage the translation session to customize the app experience\nbased on your user’s needs. Updated to iO"
   },
   {
-    "title": "What’s new in Flutter 3.35",
-    "link": "https://blog.flutter.dev/whats-new-in-flutter-3-35-c58ef72e3766?source=rss----4da7dfd21a33---4",
-    "pubDate": "Thu, 14 Aug 2025 18:23:26 GMT",
-    "source": "Flutter Medium",
-    "contentSnippet": ""
-  },
-  {
     "title": "React Native 0.81 - Android 16 support, faster iOS builds, and more",
     "link": "https://reactnative.dev/blog/2025/08/12/react-native-0.81",
     "pubDate": "Tue, 12 Aug 2025 00:00:00 GMT",
     "source": "React Native",
     "contentSnippet": "Today we are excited to release React Native 0.81!"
-  },
-  {
-    "title": "Unleash new AI capabilities for Flutter in Firebase Studio",
-    "link": "https://blog.flutter.dev/unleash-new-ai-capabilities-for-flutter-in-firebase-studio-9a8c94564635?source=rss----4da7dfd21a33---4",
-    "pubDate": "Wed, 23 Jul 2025 05:02:36 GMT",
-    "source": "Flutter Medium",
-    "contentSnippet": ""
-  },
-  {
-    "title": "Supercharge Your Dart & Flutter Development Experience with the Dart MCP Server",
-    "link": "https://blog.flutter.dev/supercharge-your-dart-flutter-development-experience-with-the-dart-mcp-server-2edcc8107b49?source=rss----4da7dfd21a33---4",
-    "pubDate": "Wed, 23 Jul 2025 05:02:33 GMT",
-    "source": "Flutter Medium",
-    "contentSnippet": ""
   },
   {
     "title": "React Native 0.80 - React 19.1, JS API Changes, Freezing Legacy Arch and much more",
@@ -215,27 +166,6 @@
     "pubDate": "Thu, 12 Jun 2025 16:00:00 GMT",
     "source": "React Native",
     "contentSnippet": "In React Native 0.80, we're introducing two significant changes to React Native's JavaScript API — the deprecation of deep imports, and our new Strict TypeScript API. These are part of an ongoing effo"
-  },
-  {
-    "title": "Dart & Flutter momentum at Google I/O 2025",
-    "link": "https://blog.flutter.dev/dart-flutter-momentum-at-google-i-o-2025-4863aa4f84a4?source=rss----4da7dfd21a33---4",
-    "pubDate": "Wed, 21 May 2025 18:00:57 GMT",
-    "source": "Flutter Medium",
-    "contentSnippet": ""
-  },
-  {
-    "title": "Flutter’s path towards seamless interop",
-    "link": "https://blog.flutter.dev/flutters-path-towards-seamless-interop-4bf7d4579d9a?source=rss----4da7dfd21a33---4",
-    "pubDate": "Tue, 20 May 2025 18:03:41 GMT",
-    "source": "Flutter Medium",
-    "contentSnippet": ""
-  },
-  {
-    "title": "Gemini in Android Studio now speaks fluent Flutter!",
-    "link": "https://blog.flutter.dev/gemini-in-android-studio-now-speaks-fluent-flutter-915dfec98274?source=rss----4da7dfd21a33---4",
-    "pubDate": "Tue, 20 May 2025 18:03:09 GMT",
-    "source": "Flutter Medium",
-    "contentSnippet": ""
   },
   {
     "title": "React Native 0.79 - Faster tooling and much more",
