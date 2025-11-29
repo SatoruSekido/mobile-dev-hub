@@ -1,5 +1,12 @@
 [
   {
+    "title": "Advanced Git [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/books/advanced-git",
+    "pubDate": "2025-11-28T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<h2>Master Git!</h2>\n<p>Chances are if you’re involved with software development you’ve heard of and have used Git at some point in your life. Version control systems are critical for any successful c"
+  },
+  {
     "title": "Metal by Tutorials [SUBSCRIBER]",
     "link": "https://www.kodeco.com/books/metal-by-tutorials",
     "pubDate": "2025-11-21T00:00:00.000Z",
@@ -166,13 +173,6 @@
     "pubDate": "2025-10-07T00:00:00.000Z",
     "source": "Ray Wenderlich",
     "contentSnippet": "<p>Incorporating third-party machine learning models requires knowledge about the source model as well\nas some Core ML conversion techniques. This module will get you started with incorporating such a"
-  },
-  {
-    "title": "Integrating ChatGPT in Your iOS Apps [SUBSCRIBER]",
-    "link": "https://www.kodeco.com/ios/paths/third-party-ai/49480710-integrating-chatgpt-in-your-ios-apps",
-    "pubDate": "2025-10-07T00:00:00.000Z",
-    "source": "Ray Wenderlich",
-    "contentSnippet": "<p>This module explores the integration of ChatGPT into iOS apps, enabling powerful\nconversational AI capabilities. Students will learn to leverage the ChatGPT API to\ncreate dynamic, context-aware cha"
   },
   {
     "title": "What’s new in Flutter 3.35",
