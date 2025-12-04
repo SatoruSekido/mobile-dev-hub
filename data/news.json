@@ -1,5 +1,19 @@
 [
   {
+    "title": "Hello Developer: December 2025",
+    "link": "https://developer.apple.com/news/?id=mu3kfca2",
+    "pubDate": "Thu, 04 Dec 2025 09:00:16 PST",
+    "source": "Apple Developer",
+    "contentSnippet": "In this edition:\n\nMeet the 2025 App Store Award winners.\nSign up for new design and Liquid Glass activities in the new year.\nCheck out the latest additions to our ever-expanding video library.\nMeet th"
+  },
+  {
+    "title": "App Store Award winners announced",
+    "link": "https://developer.apple.com/news/?id=id45s69d",
+    "pubDate": "Thu, 04 Dec 2025 05:00:25 PST",
+    "source": "Apple Developer",
+    "contentSnippet": "Join us in celebrating the outstanding work of these developers from around the world.\nMeet the winners"
+  },
+  {
     "title": "Advanced Git [SUBSCRIBER]",
     "link": "https://www.kodeco.com/books/advanced-git",
     "pubDate": "2025-11-28T00:00:00.000Z",
@@ -126,13 +140,6 @@
     "contentSnippet": "<p>Explore Genmoji, enhancing your apps with expressive, customizable emojis. Learn to render, store, and communicate with text that includes Genmoji, Memoji, and other sticker-type images. Updated to"
   },
   {
-    "title": "New requirement for apps using Sign in with Apple for account creation",
-    "link": "https://developer.apple.com/news/?id=j9zukcr6",
-    "pubDate": "Thu, 09 Oct 2025 05:00:09 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "Starting January 1, 2026, developers based in the Republic of Korea must provide a server‑to‑server notification endpoint when registering a new Services ID, or updating an existing Services ID, to as"
-  },
-  {
     "title": "Vision Framework [SUBSCRIBER]",
     "link": "https://www.kodeco.com/ios/paths/apple-ai-models/49307523-vision-framework",
     "pubDate": "2025-10-09T00:00:00.000Z",
@@ -145,13 +152,6 @@
     "pubDate": "Wed, 08 Oct 2025 14:22:10 GMT",
     "source": "Flutter Medium",
     "contentSnippet": ""
-  },
-  {
-    "title": "Updated Apple Developer Program License Agreement now available",
-    "link": "https://developer.apple.com/news/?id=fnkpd51y",
-    "pubDate": "Wed, 08 Oct 2025 06:00:12 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "The Apple Developer Program License Agreement has been revised to support updated policies and to provide clarification. Please review the changes below and sign in to your account to accept the updat"
   },
   {
     "title": "React Native 0.82 - A New Era",
