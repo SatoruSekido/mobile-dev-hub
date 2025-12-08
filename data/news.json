@@ -1,5 +1,12 @@
 [
   {
+    "title": "New Requirements for Social Media Apps in Australia",
+    "link": "https://developer.apple.com/news/?id=y1bckxf8",
+    "pubDate": "Mon, 08 Dec 2025 06:00:16 PST",
+    "source": "Apple Developer",
+    "contentSnippet": "Beginning December 10, 2025, a new Australian law will require certain social media platforms operating in Australia to prevent people under 16 from having a social media account. Impacted developers "
+  },
+  {
     "title": "Hello Developer: December 2025",
     "link": "https://developer.apple.com/news/?id=mu3kfca2",
     "pubDate": "Thu, 04 Dec 2025 09:00:16 PST",
@@ -103,13 +110,6 @@
     "pubDate": "Thu, 30 Oct 2025 06:00:46 PDT",
     "source": "Apple Developer",
     "contentSnippet": "The App Store is designed to make it easy to sell your digital goods and services globally, with support for 44 currencies across 175 storefronts.\nFrom time to time, we may need to adjust prices or yo"
-  },
-  {
-    "title": "Enhancements to help you submit and market your apps and games",
-    "link": "https://developer.apple.com/news/?id=gf6mgrs6",
-    "pubDate": "Wed, 29 Oct 2025 06:00:28 PDT",
-    "source": "Apple Developer",
-    "contentSnippet": "As part of our ongoing commitment to helping developers succeed on the App Store, we’re introducing new options for submitting content and updates while your app is in review, double the number of cus"
   },
   {
     "title": "App Observability [SUBSCRIBER]",
