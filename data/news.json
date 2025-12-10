@@ -1,5 +1,12 @@
 [
   {
+    "title": "SwiftData in iOS 26 [SUBSCRIBER]",
+    "link": "https://www.kodeco.com/ios/paths/new-ios26/48499792-swiftdata-in-ios-26",
+    "pubDate": "2025-12-10T00:00:00.000Z",
+    "source": "Ray Wenderlich",
+    "contentSnippet": "<p>In this module, you’ll learn about the new features in Swift Data that were introduced at WWDC 2025.  The new model inheritance capabilities, and how they impact queries and model migration are cov"
+  },
+  {
     "title": "Jaime’s build context: A Flutter developer’s thoughts about Antigravity + Tips!",
     "link": "https://blog.flutter.dev/jaimes-build-context-a-flutter-developer-s-thoughts-about-antigravity-tips-222e2e35d56f?source=rss----4da7dfd21a33---4",
     "pubDate": "Tue, 09 Dec 2025 17:02:12 GMT",
@@ -173,13 +180,6 @@
     "pubDate": "2025-10-08T00:00:00.000Z",
     "source": "Ray Wenderlich",
     "contentSnippet": "<p>Create ML empowers you to customize pre-built machine learning\nmodels on Apple platforms by providing training datasets.\nExplore various use cases and deploy a custom model into an app. Updated to "
-  },
-  {
-    "title": "3rd-Party On-Device Models [SUBSCRIBER]",
-    "link": "https://www.kodeco.com/ios/paths/third-party-ai/49480643-3rd-party-on-device-models",
-    "pubDate": "2025-10-07T00:00:00.000Z",
-    "source": "Ray Wenderlich",
-    "contentSnippet": "<p>Incorporating third-party machine learning models requires knowledge about the source model as well\nas some Core ML conversion techniques. This module will get you started with incorporating such a"
   },
   {
     "title": "What’s new in Flutter 3.35",
